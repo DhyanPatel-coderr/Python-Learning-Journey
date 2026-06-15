@@ -31,5 +31,7 @@ This repository contains my Python practice programs and GeeksforGeeks solutions
 - Majority Elements
 - Stock Buy and Sell
 - Minimize the Heights II
+- Kadane's Algorithm
+- Maximum product subarray
 
 More problems will be added regularly.
