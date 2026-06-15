@@ -12,6 +12,15 @@ This repository contains my Python practice programs and GeeksforGeeks solutions
 - Strong Number
 - Sum of Digits
 - Count Digits
+- Digit with longest consecutive run
+- Digit with max difference
+- First non repeating digit
+- Most frequent digit
+- Second most frequent digit
+
+### Array Problems
+- Largest element
+- Second largest element
 
 ### GFG Practice
 - Second Largest Element
