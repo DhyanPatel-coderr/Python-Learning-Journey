@@ -18,9 +18,27 @@ This repository contains my Python practice programs and GeeksforGeeks solutions
 - Most frequent digit
 - Second most frequent digit
 
-### Array Problems
-- Largest element
-- Second largest element
+## Array Problems
+
+- Largest Element
+- Second Largest Element
+- Sum of Array Elements
+- Count Even and Odd Numbers
+- Reverse an Array
+- Smallest Element in an Array
+- Difference Between Largest and Smallest Element
+- Frequency of Elements
+- First Non-Repeating Element
+- Count Positive, Negative and Zero Elements
+- Remove Duplicates from an Array
+- Move All Zeros to the End
+- Find Missing Number
+- Find Duplicate Element
+- Rotate Array by One Position
+- Second Smallest Element
+- Check if Array is Sorted
+- Longest Consecutive Run
+- Leaders in an Array
 
 ### GFG Practice
 - Second Largest Element
