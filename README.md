@@ -39,6 +39,18 @@ This repository contains my Python practice programs and GeeksforGeeks solutions
 - Check if Array is Sorted
 - Longest Consecutive Run
 - Leaders in an Array
+- Equilibrium index
+- Find intersection of two array
+- Find peak element of an array
+- Majority element 
+- Maximum difference between two elements
+- Maximum subarray sum
+- Maximum sum of two elements
+- Minimum sum of two elements
+- Pair with given sum
+- Product of array excluding self
+- Rearrange positive and negative elements alternatively
+- Union of two arrays
 
 ### GFG Practice
 - Second Largest Element
