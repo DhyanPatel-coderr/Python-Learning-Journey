@@ -1,10 +1,10 @@
-# Python Learning Journey
+## Python Learning Journey
 
 This repository contains my Python practice programs and GeeksforGeeks solutions.
 
 ## Topics Covered
 
-### Number Problems
+## Number Problems
 - Largest Digit
 - Reverse Number
 - Palindrome Number
@@ -52,7 +52,7 @@ This repository contains my Python practice programs and GeeksforGeeks solutions
 - Rearrange positive and negative elements alternatively
 - Union of two arrays
 
-### GFG Practice
+## GFG Practice
 - Second Largest Element
 - Push Zeroes to End
 - Reverse Array
@@ -63,5 +63,9 @@ This repository contains my Python practice programs and GeeksforGeeks solutions
 - Minimize the Heights II
 - Kadane's Algorithm
 - Maximum product subarray
+
+## Linked_List
+- Singly linked list
+- Doubly linked list
 
 More problems will be added regularly.
