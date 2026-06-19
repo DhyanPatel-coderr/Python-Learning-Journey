@@ -67,5 +67,6 @@ This repository contains my Python practice programs and GeeksforGeeks solutions
 ## Linked_List
 - Singly linked list
 - Doubly linked list
+- Circular linked list
 
 More problems will be added regularly.
