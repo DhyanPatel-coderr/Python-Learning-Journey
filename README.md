@@ -52,7 +52,14 @@ This repository contains my Python practice programs and GeeksforGeeks solutions
 - Rearrange positive and negative elements alternatively
 - Union of two arrays
 
+## Linked_List
+- Singly linked list
+- Doubly linked list
+- Circular linked list
+- Circular doubly linked list
+
 ## GFG Practice
+## 1. Array
 - Second Largest Element
 - Push Zeroes to End
 - Reverse Array
@@ -64,10 +71,6 @@ This repository contains my Python practice programs and GeeksforGeeks solutions
 - Kadane's Algorithm
 - Maximum product subarray
 
-## Linked_List
-- Singly linked list
-- Doubly linked list
-- Circular linked list
-- Circular doubly linked list
+## 2. String
 
 More problems will be added regularly.
