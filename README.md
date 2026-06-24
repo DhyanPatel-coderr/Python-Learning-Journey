@@ -72,5 +72,7 @@ This repository contains my Python practice programs and GeeksforGeeks solutions
 - Maximum product subarray
 
 ## 2. String
+- My atoi
+
 
 More problems will be added regularly.
