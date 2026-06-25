@@ -73,6 +73,10 @@ This repository contains my Python practice programs and GeeksforGeeks solutions
 
 ## 2. String
 - My atoi
+- Anagram
+- Binary string addition
+- First non repeating character
+- Search pattern
 
 
 More problems will be added regularly.
