@@ -1,6 +1,18 @@
 ## Python Learning Journey
 
-This repository contains my Python practice programs and GeeksforGeeks solutions.
+This repository documents my Python learning journey through problem-solving and data structures.
+
+Each solution is implemented from scratch to strengthen my understanding of programming concepts, algorithms, and problem-solving techniques.
+
+It includes:
+- Core Python programs
+- Number problems
+- Array problems
+- String problems
+- Linked List implementations
+- GeeksforGeeks practice questions
+
+I regularly solve problems, optimize solutions, and push my progress to GitHub.
 
 ## Topics Covered
 
@@ -12,11 +24,11 @@ This repository contains my Python practice programs and GeeksforGeeks solutions
 - Strong Number
 - Sum of Digits
 - Count Digits
-- Digit with longest consecutive run
-- Digit with max difference
-- First non repeating digit
-- Most frequent digit
-- Second most frequent digit
+- Digit with Longest Consecutive Run
+- Digit with Max Difference
+- First Non-Repeating Digit
+- Most Frequent Digit
+- Second Most Frequent Digit
 
 ## Array Problems
 
@@ -40,26 +52,26 @@ This repository contains my Python practice programs and GeeksforGeeks solutions
 - Longest Consecutive Run
 - Leaders in an Array
 - Equilibrium index
-- Find intersection of two array
-- Find peak element of an array
-- Majority element 
-- Maximum difference between two elements
-- Maximum subarray sum
-- Maximum sum of two elements
-- Minimum sum of two elements
-- Pair with given sum
-- Product of array excluding self
-- Rearrange positive and negative elements alternatively
-- Union of two arrays
+- Find Intersection of Two Array
+- Find Peak Element of an Array
+- Majority Element 
+- Maximum Difference Between Two Elements
+- Maximum Subarray Sum
+- Maximum Sum of Two Elements
+- Minimum Sum of Two Elements
+- Pair with Given Sum
+- Product of Array Excluding Self
+- Rearrange Positive and Negative Elements Alternatively
+- Union of Two Arrays
 
-## Linked_List
-- Singly linked list
-- Doubly linked list
-- Circular linked list
-- Circular doubly linked list
+## Linked List
+- Singly Linked List
+- Doubly Linked List
+- Circular Linked List
+- Circular Doubly Linked List
 
 ## GFG Practice
-## 1. Array
+### Array
 - Second Largest Element
 - Push Zeroes to End
 - Reverse Array
@@ -69,14 +81,22 @@ This repository contains my Python practice programs and GeeksforGeeks solutions
 - Stock Buy and Sell
 - Minimize the Heights II
 - Kadane's Algorithm
-- Maximum product subarray
+- Maximum Product Subarray
 
-## 2. String
-- My atoi
+### String
+- My Atoi
 - Anagram
-- Binary string addition
-- First non repeating character
-- Search pattern
+- Binary String Addition
+- First Non-Repeating Character
+- Search Pattern
 
 
-More problems will be added regularly.
+⭐ This repository is updated regularly as I continue my Python and DSA learning journey.
+
+## Future Plans
+
+- Learn advanced data structure and algorithms
+- Improve problem-solving skills
+- Solve more GeeksforGeeks and LeetCode problems
+- Build Python projects
+- Learn advanced string algorithms (KMP, Rabin-Karp)
